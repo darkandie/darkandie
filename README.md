@@ -1,6 +1,6 @@
 # Carlos Oliveira
 
- - 👔 Front-end and mobile developer
+ - Desenvolvedor fullstack | Nodejs | Reactjs | React-native | Analista de Sistemas
  
 <div>
 	<a href="https://github.com/darkandie" target="_blank">
