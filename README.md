@@ -1,25 +1,6 @@
 # Carlos Oliveira
 
  - Desenvolvedor fullstack | Nodejs | Reactjs | React-native | Analista de Sistemas
- 
-<div>
-	<a href="https://github.com/darkandie" target="_blank">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkandie&show_icons=true&theme=tokyonight"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkandie&layout=compact&langs_cunt=16$theme=tokyonight"/>
-</div>
-	
-<div style="display: inline-block"> <br>
-	<img align="center" alt="carlos-IOS" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
-	<img align="center" alt="carlos-ANDROID" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
-	<img align="center" alt="carlos-CSS" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img align="center" alt="carlos-HTML" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	<img align="center" alt="carlos-JS" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img align="center" alt="carlos-NODE" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-	<img align="center" alt="carlos-REACT" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img align="center" alt="carlos-SASS" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-	<img align="center" alt="carlos-BOOTS" height ="30" width="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</div>
-	
 ##
 	
 <div>
