@@ -8,22 +8,22 @@ Profissional na área de tecnologia com ampla experiência com ReactJs e React-n
 Conhecimento em design de interfaces utilizando Figma e boas práticas de UI e UX Design.
 Apaixonado por códigos e interfaces de qualidade!
 
-Soft skills:
-Comunicação
-Proatividade
-Visão analitica 
-Trabalho em equipe
+Soft skills:<br>
+Comunicação<br>
+Proatividade<br>
+Visão analitica <br>
+Trabalho em equipe<br>
 
-Principais tecnologias que atuo:
-Javascript
-ReactJs
-NextJs
-React-native
-Angular
-Node.JS
-Redux
-Jest
-Styled-components
-Sass
-Graphql
-Git
+Principais tecnologias que atuo:<br>
+Javascript<br>
+ReactJs<br>
+NextJs<br>
+React-native<br>
+Angular<br>
+Node.JS<br>
+Redux<br>
+Jest<br>
+Styled-components<br>
+Sass<br>
+Graphql<br>
+Git<br>
