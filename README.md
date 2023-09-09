@@ -1,6 +1,6 @@
 # Carlos Oliveira
 
- - Desenvolvedor fullstack | Nodejs | Reactjs | React-native | Analista de Sistemas
+ - Desenvolvedor fullstack | Java | Spring Boot | Angular | Reactjs | React-native
    
 Analista de sistemas e desenvolvedor javascript com foco em front-end e desenvolvimento de aplicações mobile, com mais de 3 anos de experiência na área.
 Experiência com construção de plataformas de gestão, e-commerces e sistemas financeiros.
@@ -20,7 +20,8 @@ ReactJs<br>
 NextJs<br>
 React-native<br>
 Angular<br>
-Node.JS<br>
+Java<br>
+Spring Boot<br>
 Redux<br>
 Jest<br>
 Styled-components<br>
