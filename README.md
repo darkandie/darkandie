@@ -2,11 +2,10 @@
 
  - Desenvolvedor fullstack | Java | Spring Boot | Angular | Reactjs | React-native
    
-Analista de sistemas e desenvolvedor javascript com foco em front-end e desenvolvimento de aplicações mobile, com mais de 3 anos de experiência na área.
-Experiência com construção de plataformas de gestão, e-commerces e sistemas financeiros.
-Profissional na área de tecnologia com ampla experiência com ReactJs e React-native com Typescript.
-Conhecimento em design de interfaces utilizando Figma e boas práticas de UI e UX Design.
-Apaixonado por códigos e interfaces de qualidade!
+Já atuo na área a 4 anos, já tendo atuado em sistemas financeiros(fintech), e-commerces e sistemas de gestão de produtos e serviços.
+Possuo amplo conhecimento de criação de interfaces, do protótipo a codificação, tanto de sistemas web (React e Angular) quanto de sistemas mobile (React-native).
+Conhecimento em testes automatizados, esteiras de CI/CD e qualidade de código.
+Também possuo conhecimento e experiência back-end com NodeJs e Java com Spring boot.
 
 # Soft skills:<br>
 Comunicação<br>
