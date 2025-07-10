@@ -1,29 +1,13 @@
 # Carlos Oliveira
 
- - Desenvolvedor fullstack | Java | Spring Boot | Angular | Reactjs | React-native
-   
-Já atuo na área a 4 anos, já tendo atuado em sistemas financeiros(fintech), e-commerces e sistemas de gestão de produtos e serviços.
-Possuo amplo conhecimento de criação de interfaces, do protótipo a codificação, tanto de sistemas web (React e Angular) quanto de sistemas mobile (React-native).
-Conhecimento em testes automatizados, esteiras de CI/CD e qualidade de código.
-Também possuo conhecimento e experiência back-end com NodeJs e Java com Spring boot.
+Sou desenvolvedor fullstack com mais de 5 anos de experiência atuando em sistemas financeiros (fintechs), e-commerces e plataformas de gestão de produtos e serviços. Tenho forte domínio na criação de interfaces modernas e responsivas, desde o protótipo até a codificação, com foco em performance e experiência do usuário.
 
-# Soft skills:<br>
-Comunicação<br>
-Proatividade<br>
-Visão analitica <br>
-Trabalho em equipe<br>
+Trabalho com aplicações web (React, Next.js, Angular), mobile (React Native) e back-end usando Java com springboot, utilizando boas práticas de desenvolvimento, testes automatizados (Jest, Cypress), esteiras de CI/CD e foco em qualidade de código.
 
-# Principais tecnologias que atuo:<br>
-Javascript<br>
-ReactJs<br>
-NextJs<br>
-React-native<br>
-Angular<br>
-Java<br>
-Spring Boot<br>
-Redux<br>
-Jest<br>
-Styled-components<br>
-Sass<br>
-Graphql<br>
-Git<br>
+🛠️ Stack Principal
+Linguagens: JavaScript, TypeScript, Java
+Frameworks: React, React Native, Next.js, Angular, Spring Boot, Node.js
+Estado: Redux, Zustand
+Estilo: Styled-Components, TailwindCSS, Sass, Material UI
+Testes: Jest, Cypress
+Outros: GraphQL, Storybook, Git, CI/CD
